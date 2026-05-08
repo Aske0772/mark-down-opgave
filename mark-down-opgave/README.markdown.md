@@ -18,8 +18,10 @@ Perfekt til dokumentation og noter
     ---
 ## kodeeksempel, der viser, hvordan man via *JavaScript* itererer et array vha. et for-loop ved at bruge Markdown.
 ```javascript
-for (let number = 1; number <= 5; number++) {
-    console.log(number);
+const numbers = [1, 2, 3, 4, 5];
+
+for (let number = 0; number < numbers.length; number++) {
+    console.log(numbers[number]);
 }
 ```
 ---
