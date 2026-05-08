@@ -28,3 +28,4 @@ h. Del linket til dit GitHub repository ved at sende en mail til din underviser
 ## For hjælp til hvordan du arbejder med Markdown Syntax - tjek [Markdownguide.org](https://www.markdownguide.org/basic-syntax/) 
 
 ### Du kan også drage fordel af [Markdown Live Preview](https://markdownlivepreview.com/), som viser hvordan din tekst ville fremstå ved hjælp af Markdown.
+

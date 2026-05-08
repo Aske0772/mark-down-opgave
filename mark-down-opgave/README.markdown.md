@@ -18,3 +18,21 @@ Perfekt til dokumentation og noter
     ---
 ## kodeeksempel, der viser, hvordan man via *JavaScript* itererer et array vha. et for-loop ved at bruge Markdown.
 ```javascript
+for (let number = 1; number <= 5; number++) {
+    console.log(number);
+}
+```
+
+## Et kodeeksempel, der viser, hvordan man opbygger en navigation med 3 links vha. HTML.
+```HTML
+<nav>
+    <ul>
+        <li><a href="#">Hjem</a></li>
+        <li><a href="#">Om os</a></li>
+        <li><a href="#">Kontakt</a></li>
+    </ul>
+</nav>
+---
+
+## 
+![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
