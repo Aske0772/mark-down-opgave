@@ -16,3 +16,4 @@ Perfekt til dokumentation og noter
     * AI-projekter
 
     ---
+## kodeeksempel, der viser, hvordan man via *JavaScript* itererer et array vha. et for-loop ved at bruge Markdown.
