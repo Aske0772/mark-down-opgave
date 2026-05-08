@@ -4,7 +4,6 @@
 At lære at anvende Markdown-syntaks til at dokumentere programmering med JavaScript, CSS og HTML.
 
 # Opgave:
-# 123
 Opret et nyt Markdown-dokument ved navn `README.md`.
 
 Dokumenter følgende oplysninger ved hjælp af Markdown-syntaks:
