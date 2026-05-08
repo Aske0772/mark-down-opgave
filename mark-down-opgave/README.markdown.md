@@ -14,3 +14,5 @@ Perfekt til dokumentation og noter
     * dokumentation
     * README-filer
     * AI-projekter
+
+    ---
