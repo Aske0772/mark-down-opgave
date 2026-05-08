@@ -22,7 +22,7 @@ for (let number = 1; number <= 5; number++) {
     console.log(number);
 }
 ```
-
+---
 ## Et kodeeksempel, der viser, hvordan man opbygger en navigation med 3 links vha. HTML.
 ```HTML
 <nav>
