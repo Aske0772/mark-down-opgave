@@ -32,7 +32,10 @@ for (let number = 1; number <= 5; number++) {
         <li><a href="#">Kontakt</a></li>
     </ul>
 </nav>
+```
 ---
 
-## 
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+## Indsæt et billede og beskriv billedet kort.
+![dette er et billede af en abe.](https://cdn-free.tv2i.dk/l/e/g/legacy/9/b/d/9bdee67c-e6a2-4d3a-8db8-7313a3333be1?ixlib=js-3.8.0&w=624&h=351&q=45&auto=format&fit=crop&crop=faces&s=abd5ee7d9ccb9ff91462bd143185d603" "Dette er et billede af en abe")
+
+
